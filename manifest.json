@@ -1,0 +1,7 @@
+{
+  "name": "Workplaces",
+  "short_name": "workplaces",
+  "lang": "nl-NL",
+  "start_url": "/",
+  "display": "standalone"
+}
