@@ -1,7 +1,10 @@
 {
   "name": "Workplaces",
-  "short_name": "workplaces",
+  "short_name": "Workplaces",
+  "description": "A map-based app to help you find your favorite remote workplace easily.",
   "lang": "nl-NL",
   "start_url": "/",
-  "display": "standalone"
+  "display": "standalone",
+  "theme_color": "5C61DE",
+  "background_color": "#5C61DE"
 }
